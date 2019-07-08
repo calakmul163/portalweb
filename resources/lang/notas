@@ -1,0 +1,4 @@
+mkdir resources/js/views
+touch resources/js/views/App.vue
+touch resources/js/views/Home.vue
+touch resources/js/views/Hello.vue
